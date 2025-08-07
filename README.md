@@ -1,4 +1,3 @@
-# Data-With-Nikhil
 # Hi, I'm Nikhil 👋
 
 I'm an aspiring **Data Analyst** passionate about working with **Excel, SQL, and Power BI**. Currently learning Python and building real-world projects to enhance my skills.
